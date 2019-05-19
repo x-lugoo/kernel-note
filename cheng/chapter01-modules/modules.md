@@ -1,7 +1,7 @@
 # 第一章 内核模块
 
 #### ELF介绍
-![14b16bd36534797fd0a6038ff06e94a7.png](en-resource://database/2362:1)
+![ELF](https://images0.cnblogs.com/blog/417887/201309/10163329-3b81c167e3e34681b4d30f19953ccc81.jpg)
 
 
 #### 1. 模块的加载过程
@@ -104,8 +104,8 @@ EXPORT_SYMBOL的宏定义
 
 ### 参考文档
 ELF规范:    [Executable and Linking Format Specification V1.2](
-http://www.sco.com/developers/gabi/latest/contents.html)
-参考文档 - [ELF-64 Object File Format](https://www.uclibc.org/docs/elf-64-gen.pdf)
-[参考blog]
-(https://www.cnblogs.com/feng9exe/p/6899351.html)
+http://www.sco.com/developers/gabi/latest/contents.html)  
+参考文档 - [ELF-64 Object File Format](https://www.uclibc.org/docs/elf-64-gen.pdf)  
+[参考blog]  
+(https://www.cnblogs.com/feng9exe/p/6899351.html)  
 (https://blog.csdn.net/dyron/article/details/9022629)
