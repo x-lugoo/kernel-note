@@ -128,3 +128,11 @@ struct module{
 
   - 模块导出符号
 
+    内核模块会把导出符号放到_ksymtab、_ksymtab_gpl和_ksymtab_gpl_future section中。
+
+    这些section都带SHF_ALLOC标志，在模块加载过程中会被搬移到CORE section区域去，
+
+    在搬移CORE section和INIT section后，内核通过HDR视图中Section header table查找获取，keymtab,ksymtab_gpl和ksymtab_gpl_future section在CORE section中的地址，分别记录到mod->syms,mod->gpl_syms和mod->gpl_future_syms中，内核即刻通过这些变量得到模块导出的符号的所有信息。
+
+![1558280607511](1558280607511.png)
+
