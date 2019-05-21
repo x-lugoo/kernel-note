@@ -4,3 +4,9 @@
 1.2 EXPORT_SYMBOL的内核实现
 1.内核模块-1.2 EXPORT_SYMBOL的内核实现-1基本概念： http://naotu.baidu.com/file/ba7d470020a64b5853877a827e1e888e?token=25d9fa679ef3953f
 1.内核模块-1.2 EXPORT_SYMBOL的内核实现-2 EXPORT_SYMBOL宏：http://naotu.baidu.com/file/159aff33c14238ef777c7ad3dba9f0b1?token=d1475d973a2ede66
+
+1.3 模块的加载过程
+1.内核模块-1.3 模块的加载过程-1.概述 http://naotu.baidu.com/file/8278e4c29c32553a256715427dc64c7b?token=9c8bbe43f734526d
+1.内核模块-1.3 模块的加载过程-2.主要对象http://naotu.baidu.com/file/13c8dfc125a9bb849ce66d6c2bfbb867?token=b3e0341783bbf807
+1.内核模块-1.3 模块的加载过程-3 insmod流程分析http://naotu.baidu.com/file/33e60220dc97e80cf9482f8fd3601ebe?token=ca438e608418b956
+1.内核模块-1.3 模块的加载过程-4 find_symbol http://naotu.baidu.com/file/8e1afec36a7a71f1c28bb3827dcbaf5c?token=b855391fe5e0438a
