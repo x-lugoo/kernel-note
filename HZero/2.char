@@ -1,0 +1,13 @@
+2.字符设备驱动-1 概述 http://naotu.baidu.com/file/f89de7daa19c9b1fcda74986c4bf65c7?token=fe2699359e914c98
+2.字符设备驱动-2 基本对象 http://naotu.baidu.com/file/6807ba17bacb0847da462e56b0204f6e?token=94211d4c69d9a665
+2.字符设备驱动-3 字符设备分配-cdev_alloc http://naotu.baidu.com/file/aff08ed6c45e5fcc725bf44265946c23?token=b37b7a223aa82f0d
+2.字符设备驱动-3 字符设备初始化-cdev_init http://naotu.baidu.com/file/b5f671b604867940237ff6eec14497fb?token=30db4d022b733c5a
+2.字符设备驱动-4设备号的分配-register_chrdev_region http://naotu.baidu.com/file/53e7ed4556132c666e4b891acb57823e?token=32a92fdd0140b165
+2.字符设备驱动-4 设备号的分配 unregister_chrdev_region http://naotu.baidu.com/file/0cbb1395c5b407f86d1778abe4a540c8?token=8bcbba7fa46c4741
+2.字符设备驱动-4 设备号的分配- alloc_chrdev_region http://naotu.baidu.com/file/b1fb0ec276f3d22a2ac7bf44ba91425e?token=6b7aae589b3f2663
+2.字符设备驱动-5字符设备的注册 http://naotu.baidu.com/file/961ca617acb519e873c6f80d1d658438?token=7143c20ad98b5d10
+2.字符设备驱动-6 字符设备的注销 http://naotu.baidu.com/file/ef83d8738017a8103a9c0ca2cc19b035?token=ccd76090377b5ae1
+2.字符设备驱动-7 设备文件节点生成 http://naotu.baidu.com/file/b4c68d27b31dc477ef79fddad38e8619?token=698ccbe783cace7b
+2.字符设备驱动-8 字符设备的打开 http://naotu.baidu.com/file/aa1811de5b26f613e67acadf75bdf6a7?token=7eef5c6d32d79adc
+2.字符设备驱动-9 字符设备的关闭 http://naotu.baidu.com/file/b7919e526755a6396533bb42d74ad6f1?token=2f74c90e6021fe25
+2.字符设备驱动-10 小结 http://naotu.baidu.com/file/fca94229ff61ba37f7f8db13bdab86e3?token=bb38bfa8c75de05f
